@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibekwepromise
+-  Hi, I’m ibekwe Promise
 - 👀 I’m interested in extracting datasets, in other to manipulate and derive valuable insights for data-driven recommendations for optimizing business strategies.
 - 🌱 I’m currently learning on how to improve my skills in field of data analysis.
 - 💞️ I’m looking to collaborate on data analysis projects.
