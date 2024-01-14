@@ -5,7 +5,7 @@
 - 📫 How to reach me here
   https://www.linkedin.com/in/ibekwe-promise-28a672277/
   
-- ⚡ Fun fact: love to meeting great individuals.
+-  Fun fact: love to meeting great individuals.
 
 <!---
 ibekwepromise/ibekwepromise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
